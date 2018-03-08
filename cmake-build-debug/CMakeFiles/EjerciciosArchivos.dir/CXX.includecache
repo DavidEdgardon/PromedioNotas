@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/Notas.cpp
+Notas.h
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/Notas.h
+fstream
+-
+iostream
+-
+cstring
+-
+
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/Notas.h
+
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/main.cpp
+iostream
+-
+conio.h
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/conio.h
+Notas.h
+C:/Users/ASUS/CLionProjects/EjerciciosArchivos/Notas.h
+
